@@ -29,3 +29,7 @@ git branch -M main
 git add --all o git add . 
 git commit -m "my first commit"
 git push origin main
+
+## Revisar el status
+
+git status
